@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports":true,
+      "noImplicitAny": false,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop":true,
+      "outDir": "dist"
+
+    }
+  }
